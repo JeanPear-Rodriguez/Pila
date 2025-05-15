@@ -1,6 +1,6 @@
 <?php
 
-$pila =array();
+$pila = array();
 
 array_push($pila, "Carro");
 array_push($pila, "Moto");
